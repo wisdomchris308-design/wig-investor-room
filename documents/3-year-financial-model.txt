@@ -1,0 +1,654 @@
+WISDOM INFRASTRUCTURE GROUP (WIG)
+
+3-YEAR FINANCIAL MODEL
+
+BUILDING AFRICA'S INTELLIGENT INDUSTRIAL INFRASTRUCTURE NETWORK
+
+Founder & CEO: Wisdom Chris
+
+Capital Raise: $1.5M
+
+Planning FX Rate: ₦1,361.70 / USD
+
+Planning Period: 3 Years
+
+---
+
+1. MODEL PURPOSE
+
+This financial model provides a planning view of WIG's potential revenue generation, operating costs and operating profitability from its industrial equipment leasing, haulage and project logistics activities.
+
+The model is intended for investor planning and due diligence.
+
+It is based on:
+
+- Indicative market rental/operating rates
+- Planned fleet utilization
+- 30 operating days per month
+- 12 months per year
+- Approximately 40% operating costs
+- Approximately 60% net operating margin before tax, depreciation and financing costs
+- The long-term 15-asset industrial fleet
+
+Actual results will depend on equipment availability, utilization, project duration, pricing, maintenance requirements, fuel costs, financing structure and other operating conditions.
+
+---
+
+2. PLANNING FX RATE
+
+$1 USD = ₦1,361.70
+
+Therefore:
+
+$1.5M Capital Raise
+
+$1,500,000 × ₦1,361.70 = ₦2,042,550,000
+
+This FX rate is used consistently throughout the investor planning documents.
+
+---
+
+3. LONG-TERM INDUSTRIAL FLEET
+
+Asset| Quantity| Planning Midpoint Daily Rate
+CAT 320D Excavator| 4| ₦375,000
+CAT 950H Payloader| 2| ₦325,000
+Mack Granite Tipper| 3| ₦200,000
+Mack Vision Flatbed| 4| ₦280,000
+Mack Tractor-Head + Lowbed| 1| ₦325,000
+Total| 15| ₦4,195,000/day
+
+The Hilux 4x4 is treated separately as an operational/support vehicle and is not included in revenue-generating fleet calculations.
+
+---
+
+4. INDICATIVE MARKET RATE RANGES
+
+Asset| Indicative Daily Gross Rate
+CAT 320D Excavator| ₦300,000–₦450,000
+CAT 950H Payloader| ₦250,000–₦400,000
+Mack Granite Tipper| ₦150,000–₦250,000
+Mack Vision Flatbed| ₦200,000–₦360,000
+Tractor-Head & Lowbed| ₦250,000–₦400,000
+
+Planning Midpoints Used
+
+- CAT 320D: ₦375,000/day
+- CAT 950H: ₦325,000/day
+- Mack Granite Tipper: ₦200,000/day
+- Mack Vision Flatbed: ₦280,000/day
+- Tractor-Head & Lowbed: ₦325,000/day
+
+---
+
+5. FULL-FLEET DAILY GROSS EARNING CAPACITY
+
+CAT 320D Excavators
+
+4 × ₦375,000 = ₦1,500,000/day
+
+CAT 950H Payloaders
+
+2 × ₦325,000 = ₦650,000/day
+
+Mack Granite Tippers
+
+3 × ₦200,000 = ₦600,000/day
+
+Mack Vision Flatbeds
+
+4 × ₦280,000 = ₦1,120,000/day
+
+Mack Tractor-Head + Lowbed
+
+1 × ₦325,000 = ₦325,000/day
+
+TOTAL
+
+₦4,195,000 gross earning capacity per operating day
+
+---
+
+6. MONTHLY FULL-FLEET CAPACITY
+
+Assuming 30 operating days:
+
+₦4,195,000 × 30 = ₦125,850,000/month
+
+At 100% utilization:
+
+Gross Revenue Capacity
+
+₦125.85M/month
+
+₦1.5102B/year
+
+This represents theoretical full utilization and is not the base forecast.
+
+---
+
+7. YEAR 1 PLANNING CASE
+
+Utilization
+
+45%
+
+Monthly Gross Revenue
+
+₦125.85M × 45%
+
+= ₦56.6325M/month
+
+Annual Gross Revenue
+
+₦56.6325M × 12
+
+= ₦679.59M
+
+USD Equivalent
+
+₦679.59M ÷ ₦1,361.70
+
+= ~$499,075
+
+Operating Costs — 40%
+
+₦679.59M × 40%
+
+= ₦271.836M
+
+Net Operating Profit — 60%
+
+₦679.59M × 60%
+
+= ₦407.754M
+
+USD Net Operating Profit
+
+= ~$299,445
+
+---
+
+8. YEAR 2 PLANNING CASE
+
+Utilization
+
+70%
+
+Monthly Gross Revenue
+
+₦125.85M × 70%
+
+= ₦88.095M/month
+
+Annual Gross Revenue
+
+₦88.095M × 12
+
+= ₦1.05714B
+
+USD Equivalent
+
+= ~$776,338
+
+Operating Costs — 40%
+
+₦1.05714B × 40%
+
+= ₦422.856M
+
+Net Operating Profit — 60%
+
+₦1.05714B × 60%
+
+= ₦634.284M
+
+USD Net Operating Profit
+
+= ~$465,803
+
+---
+
+9. YEAR 3 PLANNING CASE
+
+Utilization
+
+80%
+
+Monthly Gross Revenue
+
+₦125.85M × 80%
+
+= ₦100.68M/month
+
+Annual Gross Revenue
+
+₦100.68M × 12
+
+= ₦1.20816B
+
+USD Equivalent
+
+= ~$887,244
+
+Operating Costs — 40%
+
+₦1.20816B × 40%
+
+= ₦483.264M
+
+Net Operating Profit — 60%
+
+₦1.20816B × 60%
+
+= ₦724.896M
+
+USD Net Operating Profit
+
+= ~$532,346
+
+---
+
+10. THREE-YEAR FINANCIAL SUMMARY
+
+Financial Year| Utilization| Gross Revenue ₦| Gross Revenue USD| Operating Costs ₦| Net Operating Profit ₦| Net Operating Profit USD
+Year 1| 45%| ₦679.59M| ~$499K| ₦271.84M| ₦407.75M| ~$299K
+Year 2| 70%| ₦1.057B| ~$776K| ₦422.86M| ₦634.28M| ~$466K
+Year 3| 80%| ₦1.208B| ~$887K| ₦483.26M| ₦724.90M| ~$532K
+3-Year Total| —| ₦2.945B| ~$2.163M| ₦1.178B| ₦1.767B| ~$1.298M
+
+Rounded Investor Presentation Figures
+
+3-Year Gross Revenue: ~$2.16M
+
+3-Year Net Operating Profit: ~$1.30M
+
+---
+
+11. OPERATING COST ASSUMPTION
+
+The model currently assumes operating costs of approximately 40% of gross revenue.
+
+The planning cost structure is intended to cover:
+
+- Diesel/fuel
+- Equipment operators
+- Drivers
+- Routine maintenance
+- Repairs
+- Tyres
+- Spare parts
+- Insurance
+- Smart Yard operations
+- Security
+- Technology and connectivity
+- GPS/telematics
+- Fleet monitoring
+- Administration
+- Communications
+- Other operating requirements
+
+The 40% assumption is a planning benchmark and will be refined after actual machine-level operating data, supplier quotations, insurance quotations, maintenance requirements and deployment costs are established.
+
+---
+
+12. NET OPERATING PROFIT DEFINITION
+
+The model's "Net Operating Profit" represents:
+
+Gross Revenue − Planning Operating Costs
+
+It should not be interpreted as audited net income.
+
+The model does not currently deduct separately for:
+
+- Corporate income tax
+- Depreciation
+- Interest/financing costs
+- Investor distributions
+- Extraordinary losses
+- Future expansion financing costs
+
+These items should be incorporated into a more detailed financial model once the financing structure, final asset acquisition costs and operating data are available.
+
+---
+
+13. PHASE 1 DEPLOYMENT
+
+WIG's initial deployment consists of:
+
+Phase 1 Industrial Asset| Quantity
+CAT 320D Excavators| 3
+CAT 950H Payloader| 1
+Mack Granite Tippers| 3
+Mack Vision Flatbed| 1
+Mack Tractor-Head| 1
+Lowbed Trailer| 1
+Total Industrial Assets| 10
+
+Separate Support Vehicle
+
+Hilux 4x4 — 1
+
+Phase 1 Physical Assets
+
+10 Industrial Assets + 1 Hilux = 11 Physical Assets
+
+The Hilux is not included as a primary revenue-generating asset in the financial revenue calculations.
+
+---
+
+14. PHASE 1 PROCUREMENT BENCHMARK
+
+Industrial Fleet
+
+$353,500
+
+At ₦1,361.70/USD:
+
+~₦481.36M
+
+Hilux 4x4
+
+$19,000
+
+At ₦1,361.70/USD:
+
+~₦25.87M
+
+Combined Phase 1 Physical Asset Benchmark
+
+$372,500
+
+~₦507.23M
+
+These are preliminary foreign-market procurement benchmarks and are not final landed acquisition costs.
+
+They exclude or may require additional allowances for:
+
+- Shipping
+- Customs
+- Clearing
+- Inspection
+- Inland transportation
+- Registration/commissioning
+- Refurbishment where required
+- Other deployment costs
+
+---
+
+15. $1.5M CAPITAL RAISE
+
+Total Capital Raise
+
+$1,500,000
+
+Naira Planning Equivalent
+
+₦2,042,550,000
+
+Key Planned Allocations
+
+Allocation| USD / Benchmark| Naira
+Phase 1 Industrial Equipment| ~$353,500| ~₦481.36M
+Hilux 4x4| ~$19,000| ~₦25.87M
+Smart Yard| —| ₦89.25M
+Technology / Telematics / AI| —| ₦45M
+Fleet Insurance| —| ₦55M
+Working Capital Reserve| —| ₦468.3M
+Current Identified Deployment| ~$855K| ~₦1.165B
+Remaining Deployment / Logistics / Expansion Allocation| ~$645K| ~₦877.77M
+TOTAL RAISE| $1.5M| ₦2.04255B
+
+---
+
+16. REMAINING CAPITAL ALLOCATION
+
+The approximately ₦877.77M remaining allocation provides flexibility for:
+
+- International shipping
+- Customs and clearing
+- Inspection
+- Inland transportation
+- Registration and commissioning
+- Asset refurbishment where required
+- Initial operating requirements
+- Maintenance support
+- Deployment reserves
+- Additional working capital
+- Progressive fleet expansion
+- Additional equipment where commercially justified
+
+The final allocation will be refined against supplier quotations, logistics quotations and actual deployment requirements.
+
+---
+
+17. CAPITAL DEPLOYMENT PRINCIPLE
+
+WIG does not intend to commit the entire capital raise simply to purchasing equipment.
+
+The capital structure is designed to support:
+
+ASSET ACQUISITION
+
++ 
+
+OPERATIONAL INFRASTRUCTURE
+
++ 
+
+TECHNOLOGY
+
++ 
+
+INSURANCE & ASSET PROTECTION
+
++ 
+
+WORKING CAPITAL
+
++ 
+
+RESERVE CAPACITY
+
++ 
+
+PROGRESSIVE EXPANSION
+
+This is intended to give WIG the operating capacity required to deploy and manage assets rather than leaving capital concentrated entirely in equipment purchases.
+
+---
+
+18. REVENUE GROWTH ASSUMPTION
+
+The model assumes utilization improves as WIG develops:
+
+- Customer relationships
+- Commercial contracts
+- Fleet availability
+- Operating systems
+- Brand credibility
+- Project pipeline
+- Fleet intelligence
+- Maintenance discipline
+
+Utilization Path
+
+YEAR 1 → 45%
+
+YEAR 2 → 70%
+
+YEAR 3 → 80%
+
+These are planning assumptions rather than guaranteed utilization levels.
+
+---
+
+19. THREE-YEAR CUMULATIVE PROFITABILITY
+
+Year 1
+
+Net Operating Profit:
+
+~$299K
+
+Year 2
+
+Cumulative Net Operating Profit:
+
+~$765K
+
+Year 3
+
+Cumulative Net Operating Profit:
+
+~$1.30M
+
+This indicates that under the current planning assumptions, the $1.5M capital raise is not fully recovered through modeled net operating profit within the first three years.
+
+Any formal investor return, IRR or payback analysis should therefore be developed separately after final acquisition costs, financing terms, taxes, depreciation and the actual expansion schedule are established.
+
+---
+
+20. FINANCIAL MODEL LIMITATIONS
+
+This model is a planning model and should not be presented as a guaranteed financial forecast.
+
+Actual performance may vary because of:
+
+- Equipment downtime
+- Fuel-price changes
+- Maintenance costs
+- Spare-part costs
+- Tyre costs
+- Operator/driver costs
+- Exchange-rate movements
+- Equipment acquisition costs
+- Shipping and customs costs
+- Project delays
+- Customer payment cycles
+- Utilization levels
+- Market rental rates
+- Insurance costs
+- Financing costs
+- Tax obligations
+
+The model should therefore be updated as WIG obtains actual supplier quotations, equipment inspection reports, commercial contracts and operating data.
+
+---
+
+21. KEY INVESTOR METRICS
+
+CAPITAL RAISE
+
+$1.5M
+
+PLANNING FX
+
+₦1,361.70/USD
+
+NAIRA CAPITAL EQUIVALENT
+
+₦2.04255B
+
+PHASE 1 INDUSTRIAL ASSETS
+
+10
+
+PHASE 1 TOTAL PHYSICAL ASSETS
+
+11 including Hilux
+
+LONG-TERM INDUSTRIAL ASSETS
+
+15
+
+LONG-TERM TOTAL PHYSICAL ASSETS
+
+16 including Hilux
+
+FULL-FLEET DAILY GROSS CAPACITY
+
+₦4.195M/day
+
+YEAR 1 UTILIZATION
+
+45%
+
+YEAR 2 UTILIZATION
+
+70%
+
+YEAR 3 UTILIZATION
+
+80%
+
+3-YEAR GROSS REVENUE
+
+~$2.16M
+
+3-YEAR NET OPERATING PROFIT
+
+~$1.30M
+
+SMART YARD
+
+₦89.25M
+
+TECHNOLOGY / TELEMATICS / AI
+
+₦45M
+
+FLEET INSURANCE
+
+₦55M
+
+WORKING CAPITAL RESERVE
+
+₦468.3M
+
+---
+
+22. MANAGEMENT INTERPRETATION
+
+The financial model demonstrates the potential operating economics of a 15-asset industrial fleet under increasing utilization.
+
+The investment case is therefore based not only on equipment ownership, but on the ability to:
+
+ACQUIRE SOUND ASSETS → DEPLOY QUICKLY → MAINTAIN HIGH AVAILABILITY → MONITOR OPERATIONS → CONTROL COSTS → IMPROVE UTILIZATION → REINVEST CASH FLOW → EXPAND CAPACITY
+
+The model will become more precise as WIG moves from planning into procurement, contracting and deployment.
+
+---
+
+23. IMPORTANT MODEL NOTE
+
+The revenue forecast is based on the long-term 15-asset industrial fleet and is presented as a planning scenario.
+
+Phase 1 begins with 10 industrial assets plus one separate Hilux support vehicle.
+
+The model should not be interpreted as saying that all 15 industrial assets are necessarily acquired on Day 1.
+
+Progressive expansion will depend on:
+
+- Commercial demand
+- Utilization
+- Cash generation
+- Investor capital availability
+- Asset procurement opportunities
+- Operational performance
+- Capital efficiency
+
+---
+
+WISDOM INFRASTRUCTURE GROUP (WIG)
+
+BUILDING AFRICA'S INTELLIGENT INDUSTRIAL INFRASTRUCTURE NETWORK
+
+Founder & CEO: Wisdom Chris
+
+Email: wisdomchris308@gmail.com
+
+Phone: +234 902 569 1773
+
+2026
